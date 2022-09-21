@@ -1,0 +1,57 @@
+.container{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(43, 40, 40);
+    font-family: monospace; 
+}
+
+table{
+    margin: 2rem; 
+}
+
+h1{
+    text-align: center;
+    color:rgb(214, 130, 214);
+    font-size: 3rem;
+}
+
+h3{
+    color: rgb(249, 246, 249);
+    text-align: center;
+    font-size: 1rem;
+}
+
+p{
+    color:rgb(170, 152, 170);
+    font-size: 1.5rem;
+}
+
+button{
+    color:rgb(238, 236, 238);
+    background-color: rgb(214, 130, 214);
+    width: 10rem;
+    height: 2rem;
+}
+
+table td {
+    border: 1px solid grey;
+    width: 100px;
+    height: 100px; 
+    color:rgb(214, 130, 214);
+    padding: 1rem;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.bottom{
+    margin-bottom: 4rem;
+    border: 1px solid grey;
+    text-align: center;
+}
+.footer{
+    color: white;
+}
+
+.weapon{
+    color:rgb(214, 130, 214); 
+}
